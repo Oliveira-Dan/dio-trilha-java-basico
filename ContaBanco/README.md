@@ -1,7 +1,7 @@
 # Projeto simulação de "criação de conta" no banco fictício "DioBank".
 
 > [!IMPORTANT]
-> O objetivo pricipal é exercitar o uso da biblioteca "Scanner" e o uso correto dos tipos primitivos.
+> O objetivo principal é exercitar o uso da biblioteca "Scanner" e o uso correto dos tipos primitivos.
 
 ## Noções importantes:
 - Embora a inclusão de variáveis "var" permita atribuir seus tipos no momento de atribuição de valores, não caracteriza tipagem dinâmica,
